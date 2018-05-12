@@ -1,5 +1,8 @@
 _repo: Letters-and-Journals-of-James-Eighth-Earl-of-Elgin_10610
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Elgin, James Bruce, Earl of
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3600
     wikipedia: http://en.wikipedia.org/wiki/James_Bruce,_8th_Earl_of_Elgin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10610#Letters-and-Journals-of-James-Eighth-Earl-of-Elgin
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
